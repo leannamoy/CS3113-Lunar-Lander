@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\Lunar Lander\VisualStudioSDLProject\SDLProject\Entity.h(108,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\Lunar Lander\VisualStudioSDLProject\SDLProject\Entity.h(109,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\Lunar Lander\VisualStudioSDLProject\SDLProject\main.cpp(176,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\Lunar Lander\VisualStudioSDLProject\SDLProject\main.cpp(304,27): warning C4018: '<': signed/unsigned mismatch
+  SDLProject.vcxproj -> C:\Users\leann\OneDrive\Pictures\Documents\CS3113\Lunar Lander\VisualStudioSDLProject\SDLProject\Debug\SDLProject.exe
